@@ -1,4 +1,4 @@
-# Guess-the-size
+# Guess-the-size（猜大小）
 
 本项目名称是——Guess the size，意思为猜大小。
 
